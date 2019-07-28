@@ -1,0 +1,10 @@
+.cate .cate_item {
+  width: 120PX;
+  height: 48PX;
+  text-align: center;
+  line-height: 48PX;
+  font-size: 14PX;
+}
+.cate .select {
+  color: goldenrod !important;
+}

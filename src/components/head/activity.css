@@ -1,0 +1,14 @@
+.activity {
+  display: flex;
+  font-size: 14PX;
+  justify-content: space-between;
+  padding: 20PX;
+}
+.activity .cut {
+  width: 20PX;
+  height: 20PX;
+  background-color: red;
+  color: #fff;
+  text-align: center;
+  margin-top: 2PX;
+}
